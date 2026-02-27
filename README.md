@@ -1,2 +1,2 @@
 # Fusion AI
-Introducing agent-based trading to your terminal.
+Introducing agent-based trading on Web3 to your terminal.
